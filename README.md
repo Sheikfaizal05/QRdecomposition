@@ -61,7 +61,7 @@ QR_Decomposition(a)
 
 ## Output
 ```
-c:\Users\admin\Pictures\Screenshots\Screenshot 2024-12-23 182804.png
+![alt text](image-1.png)
 ```
 
 ## Result
